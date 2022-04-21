@@ -1,11 +1,11 @@
 /* body */
 body {
-    font: "Nunito Sans", "Arial", "sans serif";
+    font: 'Nunito Sans', 'Arial', 'sans serif';
     font-size: 16px;
 }
 
 /* headings */
 h1, h2 {
-    font: "Raleway", "Helvetica", "sans serif";
+    font: 'Raleway', 'Helvetica', 'sans serif';
     font-weight: 300;
 }
